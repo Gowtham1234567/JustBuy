@@ -16,5 +16,5 @@ JustBuy is a website where users can buy and sell products online.
 5. Checkout and pay
 
 ## Contact
-Developer: Your Name
-Email: your.email@example.com
+Developer: Gowtham. M
+Email: gowthamdityaa@gmail.com
